@@ -2,7 +2,7 @@
 layout: default
 ---
 <head>
-    <link rel="stylesheet" type="text/css" href="test/home.css" />
+    <link rel="stylesheet" type="text/css" href="home.css" />
 </head>
 
 <div class = "container">
